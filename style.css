@@ -744,13 +744,7 @@ Single Product Page
   border-radius: var(--radius);
   object-fit: cover;
 }
-.single-product-company {
-  font-size: 1.2rem;
-  color: var(--clr-grey-8);
-  text-transform: uppercase;
-  letter-spacing: var(--spacing);
-  margin-bottom: 1.25rem;
-}
+
 .single-product-price {
   color: var(--clr-grey-3);
   font-size: 1.25rem;
